@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=WelCome!&fontSize=90&desc=Woohahalife`s%20dev%20profile&descAlign=62&fontAlign=50&fontAlignY=38)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frogue-decimal-ec8.notion.site%2F5d704eaf4d01403781ab0aa0f2291c03&count_bg=%2379C83D&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋매일 즐겁게 성장하고 싶은 개발자 Woohahalife 입니다👋
 - 남여노소 상관없이 손쉽게 다가올 수 있는 서비스를 만들고 싶습니다🤝
 - 성장할 수 있음에 감사하며 매일 공부하고 있습니다📚
